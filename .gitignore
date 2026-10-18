@@ -1,0 +1,16 @@
+
+# Temporary files
+*.tmp
+*.log
+~$*.xlsx
+~$*.xls
+~$*.csv
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Private local configuration
+.env
+.env.*
+!.env.example
